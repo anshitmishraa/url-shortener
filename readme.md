@@ -10,8 +10,6 @@ A URL shortening service that allows users to convert long URLs into short, shar
 - [Code Structure](#code-structure)
 - [Configuration](#configuration)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
